@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am Kaung Min Khant, a full stack developer from Myanmar :myanmar:. I do web development using React/NextJS, Vue, NodeJS, NestJS. My hobby? Write projects and chill! I learnt a lot of web development myself, so self-taught. Sooo, what is my major then?.... welllll, it is Electronics Engineering, but don't skip out on me!!, Please?... You can check out some of my projects and what I can use, or at least familiar with, below. With Love ❤️, and keep on learning.
 <!--
 **kaung-minkhant/kaung-minkhant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
